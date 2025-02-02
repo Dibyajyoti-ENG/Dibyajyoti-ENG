@@ -6,9 +6,6 @@ Becoming a Great Problem Solver and Developer
 
 I have just started my Development Journey few months back and i have learned HTML, CSS and Javascrpt and other than this languages i have learned Python and Java for DSA I am interested in Development to be more specific I am more interested in Backend Development, AI & ML & LLM Development, Web3 Development . My Dream is that i will create ASI.
 
-![Batman Driving](https://media1.tenor.com/m/GkoHsiZIPWkAAAAd/driving-batman.gif)
-
-
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [God Developer](http://dibyajyoti-eng.github.io/portfoilo_website/)
 * ✉️  You can contact me at [dparida518@gmail.com](mailto:dparida518@gmail.com )
@@ -16,6 +13,8 @@ I have just started my Development Journey few months back and i have learned HT
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Any interesting projects
 * ⚡  I am the Batman
+
+![Batman Driving](https://media1.tenor.com/m/GkoHsiZIPWkAAAAd/driving-batman.gif)
 
 <a href="https://www.github.com/Dibyajyoti-ENG" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dibyajyoti-ENG?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
