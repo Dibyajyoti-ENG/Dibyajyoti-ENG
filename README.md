@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dibyajyoti Parida
 =========================================================================================================================================
 
-Becoming a Great Problem Solver and Developer
------------------------------------------------
+Becoming a Great Problem Solver 🛠️ and Developer 💀
+---------------------------------------------------
 
 I have just started my Development Journey few months back and i have learned HTML, CSS and Javascrpt and other than this languages i have learned Python and Java for DSA I am interested in Development to be more specific I am more interested in Backend Development, AI & ML & LLM Development, Web3 Development . My Dream is that i will create ASI.
 
