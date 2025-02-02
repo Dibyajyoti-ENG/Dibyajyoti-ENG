@@ -1,3 +1,5 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dibyajyoti Parida
 =========================================================================================================================================
 
@@ -46,26 +48,3 @@ src="https://img.shields.io/github/followers/Dibyajyoti-ENG?logo=github&style=fo
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Dibyajyoti-ENG/Capstone_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dibyajyoti-ENG&repo=Capstone_Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@main
-        id: snake-gif
-        with:
-          github_user_name: Dibyajyoti-ENG
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v2
-        with:
-          name: snake
-          path: dist/github-contribution-grid-snake.svg
-
-![Snake Animation](https://github.com/Dibyajyoti-ENG/Dibyajyoti-ENG/blob/output/github-contribution-grid-snake.svg)
-
